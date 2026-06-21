@@ -1,7 +1,5 @@
 # Cybersecurity Portfolio
 
-Портфолио начинающего специалиста по кибербезопасности с фокусом на Web Security, AppSec и базовую Cloud Security.
-
 ## Основные направления
 
 * Web Security / AppSec
